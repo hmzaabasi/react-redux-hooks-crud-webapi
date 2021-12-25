@@ -1,0 +1,17 @@
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Persistence.deps.json
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Persistence.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.csprojAssemblyReference.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.AssemblyInfoInputs.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.AssemblyInfo.cs
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Persistence.pdb
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.pdb
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Domain.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Domain.pdb
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.csproj.CopyComplete
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Persistence.runtimeconfig.json
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Persistence.runtimeconfig.dev.json
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.genruntimeconfig.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\obj\Debug\netcoreapp3.1\CNS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Application.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Persistence\bin\Debug\netcoreapp3.1\CNS.Application.pdb

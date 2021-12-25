@@ -1,0 +1,9 @@
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\bin\Debug\netcoreapp3.1\CNS.Domain.deps.json
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\bin\Debug\netcoreapp3.1\CNS.Domain.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\bin\Debug\netcoreapp3.1\CNS.Domain.pdb
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.csprojAssemblyReference.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.AssemblyInfoInputs.cache
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.AssemblyInfo.cs
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.dll
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.pdb
+C:\Users\hamza.iftikhar\Desktop\CNS Assignment\backend\CNS.CRUD.App\CNS.Domain\obj\Debug\netcoreapp3.1\CNS.Domain.csproj.CoreCompileInputs.cache
